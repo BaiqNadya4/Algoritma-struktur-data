@@ -1,4 +1,5 @@
-A. Dictionary
+1) Dictionary
+
 my_dist = {
     "nama"  : "Nadya",
     "umur"  :  18,
@@ -10,13 +11,15 @@ print( my_dist["asal"])
 
 print(my_dist)
 
-B. Tuple
+2) Tuple
+
 my_tuple = (1, 2, )
 print("elemen_pertama:",my_tuple[0])
 print("elemen_kedua:",my_tuple[1])
 print("semua elemen:",my_tuple)
 
-C. list
+3) list
+
 my_list = [1,2,3,4,1,2]
 panjang_my_list = len(my_list)
 print("my_list: ",panjang_my_list)
