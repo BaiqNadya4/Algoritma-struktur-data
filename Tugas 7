@@ -1,4 +1,5 @@
-A. Fungsi1 Faktorial
+1) Fungsi1 Faktorial
+
 def faktorial (n):
     if n==0 or n==1:
         return 1
@@ -8,14 +9,16 @@ a = int(input("masukkan faktorial: "))
 cari_faktorial = faktorial(a)
 print ("nilai dari ",a,"! adalah ", cari_faktorial)
 
-B. Fungsi2 Fungsiku
+2) Fungsi2 Fungsiku
+
 def fungsiku (x):
     return (5*x)-10
 a = int(input("masukkan angka:"))
 hasil_fx =fungsiku(a)
 print("hasil dari fungsi f(x) = (5*x)-10 adalah: ",hasil_fx)
 
-C. Fungsi3 Angka terbesar
+3) Fungsi3 Angka terbesar
+
 def angkaterbesar (angka1,angka2,angka3):
     if ((angka1 > angka2) and (angka1 > angka3)):
         return angka1
@@ -29,7 +32,8 @@ c = int(float(input("masukkan angka 3: ")))
 angka_max = max(a,b,c)
 print ("nilai maksimal dari ",a,",",b,"dan",c,"adalah", angka_max)
 
-D. Fungsi4 Luas persegi panjang
+4) Fungsi4 Luas persegi panjang
+
 def luaspersegipanjang (panjang, luas):
     return panjang * luas
 def keliling (panjang,lebar):
@@ -41,7 +45,8 @@ hasil_keliling = keliling(a, b)
 print ("hasil luas adalah:",hasil_luas)
 print ("hasil keliling adalah:",hasil_keliling)
 
-E. Fungsi5 Angka terkecil
+5) Fungsi5 Angka terkecil
+
 def angkaterkecil (angka1,angka2,angka3):
     if ((angka1 > angka2) and (angka1 > angka3)):
         return angka1
@@ -55,7 +60,8 @@ c = int(float(input("masukkan angka 3: ")))
 angka_min = min(a,b,c)
 print ("nilai minimal dari ",a,",",b,"dan",c,"adalah", angka_min)
 
-F. Fungsi6 fibonachi
+6) Fungsi6 fibonachi
+
 def fibonachi(n):
     if n<1 :
      print("error")
