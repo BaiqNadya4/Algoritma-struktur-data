@@ -1,4 +1,5 @@
-A. Readme.txt
+1)  Readme.txt
+
 •flowchart menjumlahkan dua buah bilangan 
 https://drive.google.com/file/d/1-XH9lEw9iedRYzuW_J7Hg-kNmlrW83Wq/view?usp=drivesdk
 •flowchart menghitung luas lingkaran 
@@ -6,20 +7,23 @@ https://drive.google.com/file/d/1OXN4-MRy8KKifehndQ5D7QOceljt8dCs/view?usp=drive
 •flowchart mendeteksi ganjil atau genap
 https://drive.google.com/file/d/1X6PUtV5TyI9biM-0LqU7JKcemN20WKwC/view?usp=drivesdk
 
-B. gg.py
+2) gg.py
+
 bilangan = int(input("masukkan sebuah bilangan: "))
 if bilangan % 2 == 0:
     print("{bilangan} adalah bilangan genap")
 else:
     print("{bilangan} adalah bilangan ganjil")
 
-C. luaslingkaran.py
+3) luaslingkaran.py
+
 jari_jari = float(input("Masukkan jari-jari lingkaran: "))
 phi = 3.14
 luas = phi * (jari_jari ** 2)
 print(f"Luas lingkaran dengan jari-jari {jari_jari} adalah {luas}")
 
-D. penjumlahan.py
+4) penjumlahan.py
+
 a=int(input("masukkan bilangan a: "))
 b=int(input("masukkan bilangan b: "))
 jumlah=a+b
