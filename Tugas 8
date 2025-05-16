@@ -1,4 +1,5 @@
-A. Queue
+1) Queue
+
 from collections import deque
 def simulasi_antrian():
  queue = deque()
@@ -30,7 +31,8 @@ def simulasi_antrian():
 #menjalankan simulasi
 simulasi_antrian()
 
-B. Stack
+2) Stack
+
 stack = []
 
 #push elemen ke stack
