@@ -1,0 +1,11 @@
+A. IF ELSE
+umur = 15
+if umur >= 17: print("Anda sudah cukup umur untuk mengendarai mobil.")
+else:
+    print("Anda belum cukup umur untuk mengendarai mobil.")
+
+B. WHILE
+angka = 1
+while angka <= 5:
+    print(angka) 
+    angka += 1
