@@ -1,4 +1,5 @@
-A. Matriks bisa diX
+1) Matriks bisa diX
+
 a = [[4, 2, 5], 
      [2, 1, 8], 
      [4, 1, 3]]
@@ -41,7 +42,8 @@ Kolom matriks b adalah: 3
 matriks a dan b dapat dikalikan
 PS C:\Users\ASUS>
 
-B. Matriks tidak bisa diX
+2) Matriks tidak bisa diX
+
 a = [[9, 3, 2], 
      [1, 4, 6], 
      [4, 2, 1]]
