@@ -1,4 +1,5 @@
-- fungsi faktorial dan fibonachi
+1) fungsi faktorial dan fibonachi
+
 def faktorial(n):
     if n==0 or n==1:
         return 1
